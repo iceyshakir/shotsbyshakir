@@ -1,0 +1,2 @@
+Place your own photos here and name them photo-1.jpg, photo-2.jpg, photo-3.jpg, and photo-4.jpg.
+You can change the filenames in index.html if you prefer different names. Capitalization matters on many web hosts.
